@@ -26,3 +26,6 @@ Thomas High School Summary (w/o 9th grade test scores)
 
 Looking at just the data from Thomas High School, the effects of the fraudulent tests are much more noticeable. The overall passing percentage drops 25% after the 9th grade scores are removed from the data set. It seems unlikely the removal of a quarter of the schools scores could have that immense an impact without some form of academic dishonesty. As a result, Thomas High School is no longer one of the top five schools in the district with regards to overall student passing rate. In fact the school plummets to the a performance postion near middle of the pack.
 
+### Summary
+
+The changes to the data set, by removing the Thomas High 9th grade schools, have not significantly altered the original observed trends. The major changes affect Thomas High School Specifically, with the High School's overall Pass percentage dropping and the school's overall performance suffering in direct comparison to other schools in the district. When looking at metrics that encompass the whole district, changes to the data are minimal. Scores by school size, school type, school spending, and by grade are only changed by fractions of percentage points. 
